@@ -7,3 +7,4 @@ My love with programming started since I was a kid, always got fascinated about 
 
 Today, i'm very happy working with Web Developing (ReactJS, NodeJS, Javascript, HTML, CSS, PHP), it's been a lot of fun making websites both for profissional projects or just for me so I can keep putting my knowledge in practice as I want. Somewhere in the future, I highly intend to start learning Game Development and/or Cybersecurity.
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=uvftxlhokjash9j9ab2rsgwt8&count=1)
