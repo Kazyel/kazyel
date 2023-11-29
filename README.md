@@ -23,7 +23,6 @@
 #
 
 <br>
-<br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Kazyel&theme=tokyonight" width = 400>
