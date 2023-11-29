@@ -17,5 +17,5 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kazyel&theme=dark&hide_border=true" width = 425>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazyel&theme=tokyonight&size_weight=0.5&count_weight=0.5&layout=compact&card_width=400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kazyel&theme=dark&hide_border=true" width = 400>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazyel&theme=tokyonight&size_weight=0.5&count_weight=0.5&layout=compact&card_width=250">
 </div>
