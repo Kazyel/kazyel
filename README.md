@@ -4,7 +4,7 @@
 
 <div align="justify">
   
-> <Nowadays, i'm working to be the best junior Front-End Developer I can towards to become a full-stack, mostly making projects with <b>React and others frameworks</b>, always using TypeScript as possible. But I also know something or other about <b>Python</b>! <br><br>For stylization and component creation, I love working with extensions/frameworks of CSS like <b>SASS</b>, <b>TailwindCSS</b> & <b>Radix/Shadcn</b> for example. But if needed, pure CSS is always with me! <br><br>So, about the back-end side now, I only know the very basics of <b>Node.js</b> & <b>Express</b> (at least I know how to make CRUDs) and mostly <b>PostgreSQL/MySQL</b> as my database knowledge. For sure, I need to upgrade my skills with the back-end and I'm working on it!
+> Nowadays, i'm working to be the best junior Front-End Developer I can towards to become a full-stack, mostly making projects with <b>React and others frameworks</b>, always using TypeScript as possible. But I also know something or other about <b>Python</b>! <br><br>For stylization and component creation, I love working with extensions/frameworks of CSS like <b>SASS</b>, <b>TailwindCSS</b> & <b>Radix/Shadcn</b> for example. But if needed, pure CSS is always with me! <br><br>So, about the back-end side now, I only know the very basics of <b>Node.js</b> & <b>Express</b> (at least I know how to make CRUDs) and mostly <b>PostgreSQL/MySQL</b> as my database knowledge. For sure, I need to upgrade my skills with the back-end and I'm working on it!
 
 </div>
 
