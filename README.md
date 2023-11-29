@@ -9,7 +9,7 @@
     
 > <samp>At the moment, my tech stack is made by mostly <br> front-end techs and a little bit of back-end.</samp>
 
-<img src="https://skillicons.dev/icons?i=js,ts,css,vite,svelte,astro,tailwind,nodejs,express,postgres">
+<img src="https://skillicons.dev/icons?i=js,ts,css,vite,svelte,astro,tailwind,nodejs,express">
     
 </div>
 
@@ -20,7 +20,7 @@
     
 > <samp>Even though I love front-end, it just doesn't feel enough, <br> so I'm learning core fundamentals and deepening my back-end knowledge. </samp>
     
-<img src="https://skillicons.dev/icons?i=python,go,docker">
+<img src="https://skillicons.dev/icons?i=python,go,docker,postgres">
 </div>
 
 #
