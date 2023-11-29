@@ -18,7 +18,7 @@
     
 > <samp> Even though I love front-end, it just doesn't feel enough, <br> so I'm learning core fundamentals and deepening my back-end knowledge. </samp>
     
-<img src="https://skillicons.dev/icons?i=python,go,docker,postgres">
+<img src="https://skillicons.dev/icons?i=python,go,docker,postgres,sqlite,mysql,sequelize,prisma">
 </div>
 
 #
