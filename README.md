@@ -1,4 +1,4 @@
-<h2 align="center"> Yo! 🤙 I'm Mateus Mascarelo, also known by the pseudonym of Kazyel, <br>a current Computer Science student and full-stack aspirant</h3>
+<h2 align="center"> Yo! 🤙 I'm Mateus Mascarelo, also known by the pseudonym of Kazyel, <br>a Computer Science student and full-stack aspirant!</h3>
 
 <br>
 
