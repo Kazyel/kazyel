@@ -6,16 +6,21 @@
 
 <div align="center">
     <h3>Skills :fire:</h3>
-    <h6><samp>At the moment, my tech stack is made by mostly <br> front-end techs and a little bit of back-end.</samp></h6>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,svelte,astro,tailwind,nodejs,express,postgres">
+    
+> <samp>At the moment, my tech stack is made by mostly <br> front-end techs and a little bit of back-end.</samp>
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,svelte,astro,tailwind,nodejs,express,postgres">
+    
 </div>
 
 <br>
 
 <div align="center">
     <h3>Learning 📚</h3>
-    <h6><samp>Even though I love front-end, it just doesn't feel enough, <br> so I'm learning core fundamentals and deepening my back-end knowledge. </samp></h6>
-    <img src="https://skillicons.dev/icons?i=go,python,docker,mysql">
+    
+> <samp>Even though I love front-end, it just doesn't feel enough, <br> so I'm learning core fundamentals and deepening my back-end knowledge. </samp>
+    
+<img src="https://skillicons.dev/icons?i=go,python,docker,mysql">
 </div>
 
 #
