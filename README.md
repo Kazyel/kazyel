@@ -1,21 +1,37 @@
-<h2 align="center"> Yo! 🤙 I'm Mateus Mascarelo, also known by the pseudonym of Kazyel, <br>a Computer Science student and full-stack aspirant!</h3>
+<h2 align="center">
+  <samp>
+    Yo! 🤙 I'm Mateus Mascarelo, also known by the pseudonym of Kazyel, <br>a Computer Science student and full-stack aspirant!
+  </samp>
+</h2>
+
+<div align="justify">
+  
+> <samp>Nowadays, i'm working to be the best junior Front-End Developer I can towards to become a full-stack, mostly making projects with <b>React and others frameworks</b>, always using TypeScript as possible. But I also know something or other about <b>Python</b>! <br><br>For stylization and component creation, I love working with extensions/frameworks of CSS like <b>SASS</b>, <b>TailwindCSS</b> & <b>Radix/Shadcn</b> for example. But if needed, pure CSS is always with me! <br><br>So, about the back-end side now, I only know the very basics of <b>Node.js</b> & <b>Express</b> (at least I know how to make CRUDs) and mostly <b>PostgreSQL/MySQL</b> as my database knowledge. For sure, I need to upgrade my skills with the back-end and I'm working on it!
+</samp>
+
+</div>
+
+#
+
+<div align="center">
+  <h3><samp>Skills :fire:</samp></h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,svelte,astro,tailwind,nodejs,express,postgres">
+</div>
+
+<div align="center">
+  <h3><samp>Learning 📚</samp></h3>
+  <img src="https://skillicons.dev/icons?i=go,python,docker,mysql">
+</div>
+
+#
 
 <br>
-
-> <p align="justify">Nowadays, i'm working to be the best junior Front-End Developer I can towards to become a full-stack, mostly making projects with <b>React and others frameworks</b>, always using TypeScript as possible. But I also know something or other about <b>Python</b>! <br><br>For stylization and component creation, I love working with extensions/frameworks of CSS like <b>SASS</b>, <b>TailwindCSS</b> & <b>Radix/Shadcn</b> for example. But if needed, pure CSS is always with me! <br><br>So, about the back-end side now, I only know the very basics of <b>Node.js</b> & <b>Express</b> (at least I know how to make CRUDs) and mostly <b>PostgreSQL/MySQL</b> as my database knowledge. For sure, I need to upgrade my skills with the back-end and I'm working on it!</p>
-
-
-## 
-
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,svelte,astro,tailwind,nodejs,express,postgres">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kazyel&theme=tokyonight" width = 400>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazyel&theme=tokyonight&size_weight=0.5&count_weight=0.5&layout=compact&card_width=250">
 </div>
 
-<br>
-<br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kazyel&theme=dark&hide_border=true" width = 400>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazyel&theme=tokyonight&size_weight=0.5&count_weight=0.5&layout=compact&card_width=250">
-</div>
