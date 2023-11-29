@@ -1,5 +1,5 @@
 <h2 align="center">
-    <p>Yo! 🤙 I'm Mateus Mascarelo, I'm 21y and also known by Kazyel, <br>a Computer Science Student and full-stack aspirant! </p>
+    Yo! <img width=24 src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"> I'm Mateus Mascarelo, I'm 21y and also known by Kazyel, <br>a Computer Science Student and full-stack aspirant! </p>
 </h2>
 
 <div align="justify">
