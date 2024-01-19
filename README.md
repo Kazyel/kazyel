@@ -14,7 +14,8 @@
 <br>
 
 <div align="center">
-    <img src="https://camo.githubusercontent.com/662490d98da872217819984322ada7eabdb0cf406f49e1efbfd6cdc27e164b3e/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313632313032343339342f33393039322f6361742d726f6c6c2e6769663f31363231303234333934"><h3>𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 📚</h3>
+    <img src="https://i.gifer.com/origin/99/99d69e7c0a923d09bf901dced4e4fa32_w200.gif">
+    <h3>𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 / 𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙨 📚</h3>
     
 > <samp> Even though I love front-end, it just doesn't feel enough, <br> so I'm learning core fundamentals and deepening my back-end knowledge. </samp>
     
