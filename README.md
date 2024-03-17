@@ -8,7 +8,7 @@
     
 > <samp>At the moment, my tech stack is made by mostly <br> front-end techs and a little bit of back-end.</samp>
 
-<img src="https://skillicons.dev/icons?i=js,ts,css,vite,svelte,astro,tailwind,nodejs,express">
+<img src="https://skillicons.dev/icons?i=js,ts,css,react,tailwind,nodejs,express">
 </div>
 
 <br>
