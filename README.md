@@ -14,7 +14,6 @@
 <br>
 
 <div align="center">
-    <img src="https://i.gifer.com/origin/99/99d69e7c0a923d09bf901dced4e4fa32_w200.gif">
     <h3>𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 / 𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙨 📚</h3>
     
 > <samp> Even though I love front-end, it just doesn't feel enough, <br> so I'm learning core fundamentals and deepening my back-end knowledge. </samp>
