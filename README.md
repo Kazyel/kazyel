@@ -6,7 +6,7 @@
 <div align="center">
     <h3>𝙎𝙠𝙞𝙡𝙡𝙨 :fire:</h3>
     
-> <samp>At the moment, my tech stack is made by mostly <br> front-end techs and a little bit of back-end.</samp>
+> <samp>At the moment, my tech stack is composed by mostly <br> front-end techs and the bare minimum of back-end.</samp>
 
 <img src="https://skillicons.dev/icons?i=js,ts,css,react,tailwind,nodejs,express">
 </div>
@@ -16,7 +16,7 @@
 <div align="center">
     <h3>𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 / 𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙨 📚</h3>
     
-> <samp> Even though I love front-end, it just doesn't feel enough, <br> so I'm learning core fundamentals and deepening my back-end knowledge. </samp>
+> <samp> Even though I love front-end, it just doesn't feel enough, <br> so I'm learning core CS fundamentals and deepening my back-end knowledge! </samp>
     
 <img src="https://skillicons.dev/icons?i=python,go,docker,postgres,mysql">
 </div>
