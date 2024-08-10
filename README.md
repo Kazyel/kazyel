@@ -1,24 +1,27 @@
-<h2 align="center">
-    
-𝐘𝐨! <img width=24 src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"> 𝐈'𝐦 𝐌𝐚𝐭𝐞𝐮𝐬 𝐌𝐚𝐬𝐜𝐚𝐫𝐞𝐥𝐨, 𝐈'𝐦 𝟐𝟐𝐲 𝐚𝐧𝐝 𝐚𝐥𝐬𝐨 𝐤𝐧𝐨𝐰𝐧 𝐛𝐲 𝐊𝐚𝐳𝐲𝐞𝐥,<br> 𝐚 (𝐦𝐨𝐬𝐭𝐥𝐲) 𝐬𝐞𝐥𝐟-𝐭𝐚𝐮𝐠𝐡𝐭 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐚𝐧𝐝 𝐟𝐮𝐥𝐥𝐬𝐭𝐚𝐜𝐤 𝐚𝐬𝐩𝐢𝐫𝐚𝐧𝐭! </p>
-</h2>
+<h3 align="center">
+𝐘𝐨! 𝐈'𝐦 𝐊𝐚𝐳𝐲𝐞𝐥, 𝐚 𝐜𝐡𝐢𝐥𝐥 (𝐦𝐨𝐬𝐭𝐥𝐲) 𝐬𝐞𝐥𝐟-𝐭𝐚𝐮𝐠𝐡𝐭 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, 𝐛𝐫𝐚𝐳𝐢𝐥𝐢𝐚𝐧, 𝐩𝐭-𝐛𝐫 + 𝐞𝐧𝐠𝐥𝐢𝐬𝐡
+</h3>
+
+#
 
 <div align="center">
-    <h3>𝙎𝙠𝙞𝙡𝙡𝙨 :fire:</h3>
+<h3>𝐒𝐤𝐢𝐥𝐥𝐬 :fire:</h3>
     
-> <samp>At the moment, my tech stack is composed by mostly <br> front-end techs and the bare minimum of back-end.</samp>
+> <samp> At the moment, my tech stack is composed by mostly <br> front-end techs, the bare minimum of back-end and general languages.</samp>
 
-<img src="https://skillicons.dev/icons?i=js,ts,css,react,tailwind,nodejs,express">
+<h4><samp>TypeScript + Python + Front & Server-side Web Frameworks + CSS/Tailwind + UI/UX</samp></h4>
 </div>
 
 <br>
 
 <div align="center">
-    <h3>𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 / 𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙨 📚</h3>
+<h3>𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬 📚</h3>
     
-> <samp> Even though I love front-end, it just doesn't feel enough, <br> so I'm learning core CS fundamentals and deepening my back-end knowledge! </samp>
-    
-<img src="https://skillicons.dev/icons?i=python,go,docker,postgres,mysql">
+> <samp> Even though I love front-end, it just doesn't feel enough.
+> <br> Then, I'm learning core Computer Science fundamentals and deepening my back-end knowledge!
+> <br>Future interest in both Cybersecurity and Game Developing.</samp>
+
+<h4><samp>Data Structures + Algos, Databases (Postgre/MySQL) Docker, Golang and C#</samp></h4>
 </div>
 
 #
