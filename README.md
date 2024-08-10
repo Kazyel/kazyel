@@ -21,7 +21,7 @@
 > <br> Then, I'm learning core Computer Science fundamentals and deepening my back-end knowledge!
 > <br>Future interest in both Cybersecurity and Game Developing.</samp>
 
-<h4><samp>Data Structures + Algos, Databases (Postgre/MySQL) Docker, Golang and C#</samp></h4>
+<h4><samp>Data Structures + Algos, Databases (Postgre/MySQL), Golang, C#, Docker</samp></h4>
 </div>
 
 #
