@@ -1,5 +1,5 @@
 <div float="left">
- <img src="https://i.pinimg.com/736x/ad/c4/96/adc4969c833248e8c5207a4a03a2cd6e.jpg" width="420" align="left">
+ <img src="https://i.pinimg.com/564x/89/46/9e/89469e2933bea0c3017353e16abbb861.jpg" width="370" align="left">
   <div float="left">
     <br>
     𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
