@@ -2,7 +2,7 @@
  <img src="https://i.pinimg.com/736x/ad/c4/96/adc4969c833248e8c5207a4a03a2cd6e.jpg" width="430" align="left">
   <div float="left">
     <br>
-    𝘼𝙗𝙤𝙪𝙩 𝙢𝙚
+    𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
        <blockquote>
             <samp>
                 - he/him, brazilian, pt-br + english<br>
@@ -13,21 +13,21 @@
             </samp>
         </blockquote> 
     <h2></h2>
-    𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨
+    𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
         <blockquote>
             <samp>
                 typecript, python, front & server-side web frameworks, node, css/tailwind, ui/ux 
             </samp>
         </blockquote>
     <h2></h2>
-    𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 & 𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙨
+    𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬
         <blockquote>
             <samp>
                 data structures and algorithms, SQL + databases, docker, golang, C#, cybersecurity
             </samp>
         </blockquote>
     <h2></h2>
-    𝙏𝙤𝙤𝙡𝙨 𝙩𝙝𝙖𝙩 𝙄 𝙪𝙨𝙚
+    𝐓𝐨𝐨𝐥𝐬 𝐭𝐡𝐚𝐭 𝐈 𝐮𝐬𝐞
         <blockquote>
             <samp>
               - <a href="https://remnux.org/](https://www.notion.so/"><b>Notion</b></a> - tech annotations<br> 
