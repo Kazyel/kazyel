@@ -1,35 +1,43 @@
-<h3 align="center">
-𝐘𝐨! 𝐈'𝐦 𝐊𝐚𝐳𝐲𝐞𝐥, 𝐚 𝐜𝐡𝐢𝐥𝐥 (𝐦𝐨𝐬𝐭𝐥𝐲) 𝐬𝐞𝐥𝐟-𝐭𝐚𝐮𝐠𝐡𝐭 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, 𝐛𝐫𝐚𝐳𝐢𝐥𝐢𝐚𝐧, 𝐩𝐭-𝐛𝐫 + 𝐞𝐧𝐠𝐥𝐢𝐬𝐡
-</h3>
-
-#
-
-<div align="center">
-<h3>𝐒𝐤𝐢𝐥𝐥𝐬 :fire:</h3>
-    
-> <samp> At the moment, my tech stack is composed by mostly <br> front-end techs, the bare minimum of back-end and general languages.</samp>
-
-<h4><samp>TypeScript + Python + Front & Server-side Web Frameworks + CSS/Tailwind + UI/UX</samp></h4>
+<div float="left">
+ <img src="https://i.pinimg.com/originals/29/16/35/291635df8e16abb6dfdbf90a9bd776ef.jpg" width="475" align="left">
+  <div float="left">
+    <br>
+    𝘼𝙗𝙤𝙪𝙩 𝙢𝙚
+       <blockquote>
+            <samp>
+                - he/him, brazilian, pt-br + english<br>
+                - IT student<br>
+                - mostly self-taught software developer<br>
+                - chill, curious, creative<br>
+                - games, animes and music
+            </samp>
+        </blockquote> 
+    <h2></h2>
+    𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨
+        <blockquote>
+            <samp>
+                typecript, python, front & server-side web frameworks, node, css/tailwind, ui/ux 
+            </samp>
+        </blockquote>
+    <h2></h2>
+    𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 & 𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙨
+        <blockquote>
+            <samp>
+                data structures and algorithms, SQL + databases, docker, golang, C#, cybersecurity
+            </samp>
+        </blockquote>
+    <h2></h2>
+    𝙏𝙤𝙤𝙡𝙨 𝙩𝙝𝙖𝙩 𝙄 𝙪𝙨𝙚
+        <blockquote>
+            <samp>
+              - <a href="https://remnux.org/](https://www.notion.so/"><b>Notion</b></a> - tech annotations<br> 
+              - <a href="https://obsidian.md/"><b>Obsidian</b></a> - quick notes<br>
+              - <a href="https://code.visualstudio.com/"><b>VS Code</b></a> - coding (neovim one day!)<br>
+              - <a href="https://starship.rs/"><b>Starship</b></a> - shell prompt<br>
+            </samp>
+        </blockquote>
+      <h2></h2>
+    </div>
 </div>
 
-<br>
-
-<div align="center">
-<h3>𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬 📚</h3>
-    
-> <samp> Even though I love front-end, it just doesn't feel enough.
-> <br> Then, I'm learning core Computer Science fundamentals and deepening my back-end knowledge!
-> <br>Future interest in both Cybersecurity and Game Developing.</samp>
-
-<h4><samp>Data Structures + Algos, Databases (Postgre/MySQL), Golang, C#, Docker</samp></h4>
-</div>
-
-#
-
-<br>
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Kazyel&theme=tokyonight" width = 400>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazyel&theme=tokyonight&size_weight=0.5&count_weight=0.5&layout=compact&card_width=250">
-</div>
+> <samp>“To come to acceptance with things and feelings is rare and to accept them completely is a miracle. It's impossible to make that moment come faster by yourself. Someday it comes unexpectedly. In order to not become warped or heartless, let it go in a natural way. Let yourself feel sad when you are, and let yourself forget when you do. <br>― Haruko Ichikawa</samp>
