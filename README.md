@@ -16,7 +16,7 @@
     𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
         <blockquote>
             <samp>
-                typecript, python, front & server-side web frameworks, node, css/tailwind, ui/ux 
+                typecript, python, front & server-side web frameworks, nodejs, css/tailwind + ui/ux knowledge
             </samp>
         </blockquote>
     <h2></h2>
