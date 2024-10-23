@@ -9,7 +9,6 @@
                 - IT student<br>
                 - mostly self-taught software developer<br>
                 - chill, curious, creative<br>
-                - games, animes and music
             </samp>
         </blockquote> 
     <h2></h2>
