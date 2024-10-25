@@ -15,14 +15,14 @@
     𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
         <blockquote>
             <samp>
-                typescript, python, front & server-side web frameworks, nodejs, css/tailwind + ui/ux knowledge
+                typescript, python, front & server-side web frameworks, nodejs, css/tailwind + ui/ux knowledge, golang, SQL
             </samp>
         </blockquote>
     <h2></h2>
     𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬
         <blockquote>
             <samp>
-                data structures and algorithms, SQL + databases, docker, golang, C#, cybersecurity
+                data structures and algorithms, docker, C#, cybersecurity
             </samp>
         </blockquote>
     <h2></h2>
