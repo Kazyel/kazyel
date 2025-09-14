@@ -15,14 +15,14 @@
     𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
         <blockquote>
             <samp>
-                typescript, python, front & server-side web frameworks, nodejs, css/tailwind + ui/ux knowledge, golang, SQL
+                typescript, front & server-side web frameworks, nodejs, css/tailwind/sass, golang, SQL/NoSQL, python
             </samp>
         </blockquote>
     <h2></h2>
     𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬
         <blockquote>
             <samp>
-                data structures and algorithms, docker, C#, cybersecurity
+                data structures and algorithms, C++/C#, cybersec
             </samp>
         </blockquote>
     <h2></h2>
@@ -30,9 +30,9 @@
         <blockquote>
             <samp>
               - <a href="https://remnux.org/](https://www.notion.so/"><b>Notion</b></a> - tech annotations<br> 
-              - <a href="https://obsidian.md/"><b>Obsidian</b></a> - quick notes<br>
-              - <a href="https://code.visualstudio.com/"><b>VS Code</b></a> - coding (neovim one day!)<br>
+              - <a href="https://ghostty.org/"><b>Ghostty</b></a> - terminal emulator<br>
               - <a href="https://starship.rs/"><b>Starship</b></a> - shell prompt<br>
+              - <a href="https://code.visualstudio.com/"><b>VS Code</b></a> - coding (neovim soon™)<br>
             </samp>
         </blockquote>
       <h2></h2>
