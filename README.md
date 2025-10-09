@@ -1,5 +1,5 @@
 <div float="left">
- <img src="https://i.pinimg.com/564x/89/46/9e/89469e2933bea0c3017353e16abbb861.jpg" width="360" align="left">
+ <img src="https://i.pinimg.com/564x/89/46/9e/89469e2933bea0c3017353e16abbb861.jpg" width="278" align="left">
   <div float="left">
     <br>
     𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
@@ -38,8 +38,5 @@
             </samp>
         </blockquote>
       <h2></h2>
-   <blockquote>
-    <samp>“To come to acceptance with things and feelings is rare and to accept them completely is a miracle. It's impossible to make that moment come faster by yourself. Someday it comes unexpectedly. In order to not become warped or heartless, let it go in a natural way. Let yourself feel sad when you are, and let yourself forget when you do. <br>― Haruko Ichikawa</samp>
-   </blockquote>
     </div>
 </div>
