@@ -37,6 +37,5 @@
               - <a href="https://code.visualstudio.com/"><b>VS Code</b></a> - coding (neovim soon™)<br>
             </samp>
         </blockquote>
-      <h2></h2>
     </div>
 </div>
