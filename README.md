@@ -24,7 +24,7 @@
     𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬
         <blockquote>
             <samp>
-                C++/C#, cybersec
+                reading some books (pragmatic programmer and clean code), C++/C#, cybersec
             </samp>
         </blockquote>
     <h2></h2>
