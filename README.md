@@ -12,12 +12,12 @@
             </samp>
         </blockquote> 
     <h2></h2>
-    𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
+    𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
         <blockquote>
             <samp>
-                - typescript, react, nextjs, vue, astro, css/tailwind/sass, shadcn<br>
-                - nodejs, python, golang, mysql, postgresql, redis, mongodb, docker<br>
-                - vitest, playwright, github actions
+                - typescript, react, nextjs, vue, astro, css/tailwind/sass<br>
+                - nodejs, python, golang, sqlite/mysql/postgresql, redis, mongodb<br>
+                - vitest, playwright, github actions, docker
             </samp>
         </blockquote>
     <h2></h2>
