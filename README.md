@@ -16,9 +16,9 @@
     𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
         <blockquote>
             <samp>
-                - <b><i><kbd>Front-end</i></b>: typescript, react, nextjs, vue, astro, css/tailwind/sass<br/>
-                - <b><i>Back-end</i></b>: nodejs, python, golang, sqlite/mysql/postgresql, redis, mongodb<br/>
-                - <b><i>DevOps & testing</i></b>: vitest, playwright, github actions, docker
+                - <mark><b><i>Front-end</i></b></mark>: typescript, react, nextjs, vue, astro, css/tailwind/sass<br/>
+                - <mark><b><i>Back-end</i></b></mark>: nodejs, python, golang, sqlite/mysql/postgresql, redis, mongodb<br/>
+                - <mark><b><i>DevOps & testing</i></b></mark>: vitest, playwright, github actions, docker
             </samp>
         </blockquote>
     <h2></h2>
