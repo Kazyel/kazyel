@@ -1,7 +1,7 @@
 <div float="left">
- <img src="https://i.pinimg.com/564x/89/46/9e/89469e2933bea0c3017353e16abbb861.jpg" width="345" align="left">
- <div float="left">
-    <br>    
+ <img src="https://i.pinimg.com/564x/89/46/9e/89469e2933bea0c3017353e16abbb861.jpg" width="345" align="left"/>
+ <div>
+    <br/>    
     𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
        <blockquote>
             <samp>
@@ -38,7 +38,7 @@
               - <a href="https://code.visualstudio.com/"><b>VS Code</b></a> - coding (neovim soon™)
             </samp>
         </blockquote>
-   <h2></h2>
+    <h2></h2>
      𝐘𝐨𝐮 𝐜𝐚𝐧 𝐟𝐢𝐧𝐝 𝐦𝐞 𝐨𝐧
      <blockquote>
       <samp>
@@ -47,8 +47,8 @@
       - <a href="mailto:m.mascarelo@gmail.com"><b>Email</b></a> - if you want a quick contact<br/>
       </samp>
      </blockquote>
-</div>
+ </div>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kazyel&theme=gruvbox&show_icons=true&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kazyel&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" align="center"/>
 
