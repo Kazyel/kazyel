@@ -16,7 +16,7 @@
     𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
         <blockquote>
             <samp>
-                - <b><i>Front-end</i></b>: typescript, react, nextjs, vue, astro, css/tailwind/sass<br/>
+                - <b><i><kbd>Front-end</i></b>: typescript, react, nextjs, vue, astro, css/tailwind/sass<br/>
                 - <b><i>Back-end</i></b>: nodejs, python, golang, sqlite/mysql/postgresql, redis, mongodb<br/>
                 - <b><i>DevOps & testing</i></b>: vitest, playwright, github actions, docker
             </samp>
@@ -50,6 +50,9 @@
  </div>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kazyel&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazyel&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" />
+<div>
+ <img src="https://github-readme-stats.vercel.app/api?username=Kazyel&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazyel&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" />
+</div>
+
 
