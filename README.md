@@ -51,9 +51,9 @@
  </div>
 </div>
 
-<div>
- <img src="https://github-readme-stats.vercel.app/api?username=Kazyel&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazyel&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" />
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Kazyel&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" height="160" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazyel&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" height="160" />
 </div>
 
 
