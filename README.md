@@ -47,6 +47,7 @@
       - <a href="mailto:m.mascarelo@gmail.com"><b>Email</b></a> - if you want a quick contact<br/>
       </samp>
      </blockquote>
+     <br/>
  </div>
 </div>
 
