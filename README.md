@@ -1,7 +1,7 @@
 <div float="left">
  <img src="https://i.pinimg.com/564x/89/46/9e/89469e2933bea0c3017353e16abbb861.jpg" width="345" align="left">
-  <div float="left">
-    <br>
+ <div float="left">
+    <br>    
     𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
        <blockquote>
             <samp>
@@ -43,9 +43,9 @@
      <blockquote>
       <samp>
       - <a href="https://www.linkedin.com/in/mateusmascarelo"><b>LinkedIn</b></a> - professional contact<br/>
-      - <a href="https://kazyel.dev/"><b>Portfolio</b></a> - know a little more about me!<br/>
+      - <a href="https://kazyel.dev/"><b>Portfolio</b></a> - know a lot more about me!<br/>
       - <a href="mailto:m.mascarelo@gmail.com"><b>Email</b></a> - if you want a quick contact<br/>
       </samp>
      </blockquote>
-    
 </div>
+![Kazyel's Stats](https://github-readme-stats.vercel.app/api?username=Kazyel&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
