@@ -1,46 +1,51 @@
 <div float="left">
- <img src="https://i.pinimg.com/564x/89/46/9e/89469e2933bea0c3017353e16abbb861.jpg" width="360" align="left">
+ <img src="https://i.pinimg.com/564x/89/46/9e/89469e2933bea0c3017353e16abbb861.jpg" width="370" align="left">
   <div float="left">
     <br>
     𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
        <blockquote>
             <samp>
-                - he/him, brazilian, pt-br + english<br>
-                - mostly self-taught<br>
-                - chill, curious, creative<br>
-                - i like video games, music and animes
+                - Brazilian Full-stack Developer<br/>
+                - Student, but mostly self-taught<br/>
+                - Chill, curious and creative<br/>
+                - I like video games, music and animes<br/>
+                - Fluent portuguese and good enough english
             </samp>
         </blockquote> 
     <h2></h2>
     𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
         <blockquote>
             <samp>
-                - typescript, react, nextjs, vue, astro, css/tailwind/sass<br>
-                - nodejs, python, golang, sqlite/mysql/postgresql, redis, mongodb<br>
-                - vitest, playwright, github actions, docker
+                - <b><i>Front-end</i></b>: typescript, react, nextjs, vue, astro, css/tailwind/sass<br/>
+                - <b><i>Back-end</i></b>: nodejs, python, golang, sqlite/mysql/postgresql, redis, mongodb<br/>
+                - <b><i>DevOps & testing</i></b>: vitest, playwright, github actions, docker
             </samp>
         </blockquote>
     <h2></h2>
     𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬
         <blockquote>
             <samp>
-                reading some books (pragmatic programmer and clean code), C++/C#, cybersec
+                Reading books (pragmatic programmer and clean code right now), C++/C#, cybersec, leetcode, game dev
             </samp>
         </blockquote>
     <h2></h2>
     𝐓𝐨𝐨𝐥𝐬 𝐭𝐡𝐚𝐭 𝐈 𝐮𝐬𝐞
         <blockquote>
             <samp>
-              - <a href="https://fedoraproject.org/"><b>Fedora Linux</b></a> - my current distro<br>
-              - <a href="https://ghostty.org/"><b>Ghostty</b></a> - terminal emulator<br>
-              - <a href="https://starship.rs/"><b>Starship</b></a> - shell prompt<br>
-              - <a href="https://code.visualstudio.com/"><b>VS Code</b></a> - coding (neovim soon™)<br>
+              - <a href="https://fedoraproject.org/"><b>Fedora Linux</b></a> - my current distro<br/>
+              - <a href="https://ghostty.org/"><b>Ghostty</b></a> - terminal emulator<br/>
+              - <a href="https://starship.rs/"><b>Starship</b></a> - shell prompt<br/>
+              - <a href="https://code.visualstudio.com/"><b>VS Code</b></a> - coding (neovim soon™)
             </samp>
         </blockquote>
    <h2></h2>
-      <blockquote>
-         <samp>“To come to acceptance with things and feelings is rare and to accept them completely is a miracle. It's impossible to make that moment come faster by yourself. Someday it comes unexpectedly. In order to not become warped or heartless, let it go in a natural way. Let yourself feel sad when you are, and let yourself forget when you do. <br>― Haruko Ichikawa
-         </samp>
-   </blockquote>
-    </div>
+     𝐘𝐨𝐮 𝐜𝐚𝐧 𝐟𝐢𝐧𝐝 𝐦𝐞 𝐨𝐧
+     <blockquote>
+      <samp>
+      - <a href="https://www.linkedin.com/in/mateusmascarelo"><b>LinkedIn</b></a> - professional contact<br/>
+      - <a href="https://kazyel.dev/"><b>Portfolio</b></a> - know a little more about me!<br/>
+      - <a href="mailto:m.mascarelo@gmail.com"><b>Email</b></a> - if you want a quick contact<br/>
+      </samp>
+     </blockquote>
+    
 </div>
