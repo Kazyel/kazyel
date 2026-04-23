@@ -6,9 +6,9 @@
        <blockquote>
             <samp>
                 - Brazilian Full-stack Developer<br/>
-                - Student, but mostly self-taught<br/>
+                - Student & intern, mostly self-taught<br/>
                 - Chill, curious and creative<br/>
-                - I like video games, music and animes<br/>
+                - I like video games, music and animes/mangas<br/>
                 - Fluent portuguese and good enough english
             </samp>
         </blockquote> 
@@ -16,7 +16,7 @@
     𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
         <blockquote>
             <samp>
-                - <mark><b><i>Front-end</i></b></mark>: typescript, react, nextjs, vue, astro, css/tailwind/sass<br/>
+                - <mark><b><i>Front-end</i></b></mark>: typescript, vite, react, nextjs, tanstack, zustand, css/tailwind/sass<br/>
                 - <mark><b><i>Back-end</i></b></mark>: nodejs, python, golang, sqlite/mysql/postgresql, redis, mongodb<br/>
                 - <mark><b><i>DevOps & testing</i></b></mark>: vitest, playwright, github actions, docker
             </samp>
@@ -32,10 +32,10 @@
     𝐓𝐨𝐨𝐥𝐬 𝐭𝐡𝐚𝐭 𝐈 𝐮𝐬𝐞
         <blockquote>
             <samp>
-              - <a href="https://fedoraproject.org/"><b>Fedora Linux</b></a> - my current distro<br/>
+              - <a href="https://fedoraproject.org/](https://wiki.cachyos.org/"><b>CachyOS</b></a> - my current distro<br/>
               - <a href="https://ghostty.org/"><b>Ghostty</b></a> - terminal emulator<br/>
               - <a href="https://starship.rs/"><b>Starship</b></a> - shell prompt<br/>
-              - <a href="https://code.visualstudio.com/"><b>VS Code</b></a> - coding (neovim soon™)
+              - <a href="https://code.visualstudio.com/"><b>VS Code</b></a> - coding editor
             </samp>
         </blockquote>
     <h2></h2>
