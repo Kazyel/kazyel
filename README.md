@@ -6,10 +6,10 @@
        <blockquote>
             <samp>
                 - Brazilian Full-stack Developer<br/>
-                - Student & intern, mostly self-taught<br/>
-                - Chill, curious and creative<br/>
+                - Mostly self-taught<br/>
+                - Always chill, curious and creative<br/>
                 - I like video games, music and animes/mangas<br/>
-                - Fluent portuguese and good enough english
+                - Fluent portuguese and B2-level english
             </samp>
         </blockquote> 
     <h2></h2>
@@ -17,7 +17,7 @@
         <blockquote>
             <samp>
                 - <mark><b><i>Front-end</i></b></mark>: typescript, vite, react, nextjs, tanstack, zustand, css/tailwind/sass<br/>
-                - <mark><b><i>Back-end</i></b></mark>: nodejs, python, golang, sqlite/mysql/postgresql, redis, mongodb<br/>
+                - <mark><b><i>Back-end</i></b></mark>: nodejs, python, golang, nestjs, sqlite/mysql/postgresql, redis, mongodb<br/>
                 - <mark><b><i>DevOps & testing</i></b></mark>: vitest, playwright, github actions, docker
             </samp>
         </blockquote>
