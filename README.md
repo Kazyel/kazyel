@@ -32,7 +32,7 @@
     𝐓𝐨𝐨𝐥𝐬 𝐭𝐡𝐚𝐭 𝐈 𝐮𝐬𝐞
         <blockquote>
             <samp>
-              - <a href="https://fedoraproject.org/](https://wiki.cachyos.org/"><b>CachyOS</b></a> - my current distro<br/>
+              - <a href="https://cachyos.org/"><b>CachyOS</b></a> - my current distro<br/>
               - <a href="https://ghostty.org/"><b>Ghostty</b></a> - terminal emulator<br/>
               - <a href="https://starship.rs/"><b>Starship</b></a> - shell prompt<br/>
               - <a href="https://code.visualstudio.com/"><b>VS Code</b></a> - coding editor
